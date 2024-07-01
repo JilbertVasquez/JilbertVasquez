@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, Bootstrap and some React + Tailwind**
 
-- 👨‍💻 All of my projects are available at [jsvasquez.netlify.app](jsvasquez.netlify.app)
+- 👨‍💻 Feel free to visit my portfolio at [jsvasquez.netlify.app](jsvasquez.netlify.app)
 
 - 💬 Ask me about **C++, JAVA, PYTHON, MYSQL**
 
